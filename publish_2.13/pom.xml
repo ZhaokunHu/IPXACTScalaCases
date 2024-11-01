@@ -4,7 +4,7 @@
 
     <groupId>io.github.zhaokunhu</groupId>
     <artifactId>ipxactscalacases_2.13</artifactId>
-    <version>0.0.2</version>
+    <version>0.0.3</version>
     <name>IPXACT Scala Cases</name>
     <description>IPXACT Scala Cases Used to Generate IPXACT2009 and IPXACT2022</description>
     <url>https://github.com/ZhaokunHu/IPXACTScalaCases</url>
@@ -51,12 +51,12 @@
         <dependency>
             <groupId>org.scala-lang.modules</groupId>
             <artifactId>scala-xml_2.13</artifactId>
-            <version>2.3.0</version>
+            <version>2.1.0</version>
         </dependency>
         <dependency>
             <groupId>org.scala-lang.modules</groupId>
             <artifactId>scala-parser-combinators_2.13</artifactId>
-            <version>2.4.0</version>
+            <version>2.1.1</version>
         </dependency>
     </dependencies>
     <build>

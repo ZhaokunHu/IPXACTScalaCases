@@ -4,7 +4,7 @@
 
     <groupId>io.github.zhaokunhu</groupId>
     <artifactId>ipxactscalacases_2.12</artifactId>
-    <version>0.0.2</version>
+    <version>0.0.3</version>
     <name>IPXACT Scala Cases</name>
     <description>IPXACT Scala Cases Used to Generate IPXACT2009 and IPXACT2022</description>
     <url>https://github.com/ZhaokunHu/IPXACTScalaCases</url>
